@@ -3,5 +3,9 @@
 ## For extension Facebook Hide Recommendations and Reels  
 
 Chrome store url: https://chrome.google.com/webstore/detail/facebook-hide-recommendat/pfkcihjlfejenpmhkhgbannfhofclncj  
-Privacy policy: https://github.com/mrinc/Facebook-Hide-Recommendations-and-Reels/blob/master/ChromePrivacyPolicy.md  
 Github repo: https://github.com/mrinc/Facebook-Hide-Recommendations-and-Reels  
+
+Policy:  
+ This plugin stores/transmits no user data.  
+ It does store configuration data within chrome itself using the storage api.  
+
